@@ -1,0 +1,170 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// ÇÑ±¹¾î(´ëÇÑ¹Î±¹) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_MENU_BIT            BITMAP                  "bitmap1.bmp"
+
+IDB_FAIDOUT             BITMAP                  "bmp00001.bmp"
+
+IDB_DAY_LOGO            BITMAP                  "bmp00002.bmp"
+
+IDB_POSTION_LOGO        BITMAP                  "bitmap2.bmp"
+
+IDB_1STAGE_BG           BITMAP                  "bmp00003.bmp"
+
+IDB_1STAGE_CROSS        BITMAP                  "bmp00004.bmp"
+
+IDB_1STAGE_DARK         BITMAP                  "bmp00005.bmp"
+
+IDB_CROSS_TEXT1         BITMAP                  "bmp00006.bmp"
+
+IDB_1STAGE_PAPER        BITMAP                  "bmp00007.bmp"
+
+IDB_1STAGE_GOHST        BITMAP                  "bmp00008.bmp"
+
+IDB_1STAGE_POSION       BITMAP                  "bmp00009.bmp"
+
+IDB_POSION_TEXT         BITMAP                  "bmp00010.bmp"
+
+IDB_1STAGE_BOX          BITMAP                  "bmp00011.bmp"
+
+IDB_BOX_TEXT            BITMAP                  "bitmap3.bmp"
+
+IDB_1STAGE_OX           BITMAP                  "bmp00012.bmp"
+
+IDB_OX_TEXT             BITMAP                  "bmp00013.bmp"
+
+IDB_NOTHING_TEXT        BITMAP                  "bmp00014.bmp"
+
+IDB_1STAGE_TV           BITMAP                  "bmp00015.bmp"
+
+IDB_TV_TEXT             BITMAP                  "bmp00016.bmp"
+
+IDB_1STAGE_HELPBG       BITMAP                  "bmp00017.bmp"
+
+IDB_1STAGE_CROSSNUM     BITMAP                  "bmp00018.bmp"
+
+IDB_NUM1_TEXT           BITMAP                  "bmp00019.bmp"
+
+IDB_USEOX_TEXT          BITMAP                  "bmp00020.bmp"
+
+IDB_TVNUMS_TEXT         BITMAP                  "bmp00021.bmp"
+
+IDB_TV0                 BITMAP                  "bmp00022.bmp"
+
+IDB_TV1                 BITMAP                  "bmp00023.bmp"
+
+IDB_TV2                 BITMAP                  "bmp00024.bmp"
+
+IDB_TV3                 BITMAP                  "bmp00025.bmp"
+
+IDB_TV4                 BITMAP                  "bitmap4.bmp"
+
+IDB_TV5                 BITMAP                  "bitmap5.bmp"
+
+IDB_TV6                 BITMAP                  "bitmap6.bmp"
+
+IDB_TV7                 BITMAP                  "bitmap7.bmp"
+
+IDB_1STAGE_HEAD         BITMAP                  "bmp00026.bmp"
+
+IDB_1STAGE_OUT          BITMAP                  "bmp00027.bmp"
+
+IDB_HEAD_TEXT1          BITMAP                  "bmp00028.bmp"
+
+IDB_END_TEXT            BITMAP                  "bmp00029.bmp"
+
+IDB_FINAL1              BITMAP                  "bmp00030.bmp"
+
+IDB_FINAL2              BITMAP                  "bmp00031.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINMENU MENU
+BEGIN
+    POPUP "¼öÃ¸"
+    BEGIN
+        MENUITEM "ÈùÆ®\tCtrl+H",                  ID_HINT
+        MENUITEM "µµ¸ÁÄ¡±â\tCtrl+R",                ID_EXIT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAIN_AC ACCELERATORS
+BEGIN
+    "H",            ID_HINT,                VIRTKEY, CONTROL, NOINVERT
+    "R",            ID_EXIT,                VIRTKEY, CONTROL, NOINVERT
+END
+
+#endif    // ÇÑ±¹¾î(´ëÇÑ¹Î±¹) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
